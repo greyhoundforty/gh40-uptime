@@ -13,12 +13,16 @@ sites:
     url: https://kagi.com
   - name: GitHub
     url: https://github.com
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+  - name: Google DNS 
     check: "tcp-ping"
-    ipv6: true
-
+    url: 8.8.4.4
+    port: 53
+  - name: Cloudflare DNS
+    check: "tcp-ping"
+    url: 1.1.1.1
+    port: 53
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -26,8 +30,8 @@ status-website:
   baseUrl: /gh40-uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: gh40-uptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: "🚀 **[View the status website &rarr;](https://upptime.js.org)**"
+  introTitle: "Uptime monitor and status page, powered by GitHub."
+  introMessage: "🚀 **[Learn more here &rarr;](https://upptime.js.org)**"
   navbar:
     - title: Status
       href: /
