@@ -4,7 +4,7 @@
     "url": "https://ryantiffany.com",
     "icon": "https://icons.duckduckgo.com/ip3/ryantiffany.com.ico",
     "slug": "ryan-tiffany",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 456,
     "timeMonth": 456,
     "timeYear": 456,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-15": 0
+    }
   },
   {
     "name": "Gh40",
@@ -142,7 +144,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-15": 16,
+      "2025-03-15": 580,
       "2025-03-14": 786
     }
   }
