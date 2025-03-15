@@ -4,19 +4,19 @@
     "url": "https://ryantiffany.com",
     "icon": "https://icons.duckduckgo.com/ip3/ryantiffany.com.ico",
     "slug": "ryan-tiffany",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 456,
-    "timeDay": 456,
-    "timeWeek": 456,
-    "timeMonth": 456,
-    "timeYear": 456,
+    "status": "up",
+    "uptime": "98.31%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "98.31%",
+    "uptimeMonth": "98.31%",
+    "uptimeYear": "98.31%",
+    "time": 447,
+    "timeDay": 447,
+    "timeWeek": 447,
+    "timeMonth": 447,
+    "timeYear": 447,
     "dailyMinutesDown": {
-      "2025-03-15": 0
+      "2025-03-15": 24
     }
   },
   {
@@ -144,7 +144,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-15": 580,
+      "2025-03-15": 603,
       "2025-03-14": 786
     }
   }
