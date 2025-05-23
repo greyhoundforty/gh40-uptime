@@ -78,18 +78,20 @@
     "url": "https://github.com",
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "git-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 132,
-    "timeDay": 157,
-    "timeWeek": 186,
-    "timeMonth": 150,
-    "timeYear": 132,
-    "dailyMinutesDown": {}
+    "time": 133,
+    "timeDay": 174,
+    "timeWeek": 187,
+    "timeMonth": 152,
+    "timeYear": 133,
+    "dailyMinutesDown": {
+      "2025-05-23": 0
+    }
   },
   {
     "name": "Google DNS",
@@ -144,7 +146,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-23": 17,
+      "2025-05-23": 718,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
