@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 444,
-    "timeDay": 240,
-    "timeWeek": 397,
+    "time": 445,
+    "timeDay": 502,
+    "timeWeek": 434,
     "timeMonth": 416,
-    "timeYear": 444,
+    "timeYear": 445,
     "dailyMinutesDown": {
       "2025-03-15": 24
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 163,
-    "timeDay": 124,
-    "timeWeek": 124,
-    "timeMonth": 174,
-    "timeYear": 163,
+    "time": 162,
+    "timeDay": 125,
+    "timeWeek": 132,
+    "timeMonth": 173,
+    "timeYear": 162,
     "dailyMinutesDown": {}
   },
   {
@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 342,
-    "timeDay": 113,
-    "timeWeek": 294,
+    "timeDay": 419,
+    "timeWeek": 338,
     "timeMonth": 326,
     "timeYear": 342,
     "dailyMinutesDown": {}
@@ -61,19 +61,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/kagi.com.ico",
     "slug": "kagi",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 151,
-    "timeDay": 168,
-    "timeWeek": 151,
-    "timeMonth": 147,
+    "timeDay": 191,
+    "timeWeek": 157,
+    "timeMonth": 148,
     "timeYear": 151,
-    "dailyMinutesDown": {
-      "2025-06-06": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GitHub",
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 131,
-    "timeDay": 158,
-    "timeWeek": 115,
+    "time": 130,
+    "timeDay": 65,
+    "timeWeek": 99,
     "timeMonth": 161,
-    "timeYear": 131,
+    "timeYear": 130,
     "dailyMinutesDown": {
       "2025-05-23": 15
     }
@@ -107,7 +105,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3,
-    "timeDay": 2,
+    "timeDay": 6,
     "timeWeek": 3,
     "timeMonth": 3,
     "timeYear": 3,
@@ -125,7 +123,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4,
-    "timeDay": 2,
+    "timeDay": 5,
     "timeWeek": 3,
     "timeMonth": 4,
     "timeYear": 4,
@@ -148,7 +146,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-06": 873,
+      "2025-06-07": 17,
+      "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
       "2025-06-03": 1440,
