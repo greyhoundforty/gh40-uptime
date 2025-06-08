@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 445,
-    "timeDay": 502,
-    "timeWeek": 434,
-    "timeMonth": 416,
-    "timeYear": 445,
+    "time": 446,
+    "timeDay": 512,
+    "timeWeek": 468,
+    "timeMonth": 419,
+    "timeYear": 446,
     "dailyMinutesDown": {
       "2025-03-15": 24
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 162,
-    "timeDay": 125,
-    "timeWeek": 132,
-    "timeMonth": 173,
+    "timeDay": 145,
+    "timeWeek": 138,
+    "timeMonth": 169,
     "timeYear": 162,
     "dailyMinutesDown": {}
   },
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 342,
-    "timeDay": 419,
-    "timeWeek": 338,
-    "timeMonth": 326,
-    "timeYear": 342,
+    "time": 344,
+    "timeDay": 451,
+    "timeWeek": 381,
+    "timeMonth": 334,
+    "timeYear": 344,
     "dailyMinutesDown": {}
   },
   {
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 151,
-    "timeDay": 191,
-    "timeWeek": 157,
-    "timeMonth": 148,
+    "timeDay": 145,
+    "timeWeek": 156,
+    "timeMonth": 147,
     "timeYear": 151,
     "dailyMinutesDown": {}
   },
@@ -86,8 +86,8 @@
     "uptimeYear": "99.99%",
     "time": 130,
     "timeDay": 65,
-    "timeWeek": 99,
-    "timeMonth": 161,
+    "timeWeek": 84,
+    "timeMonth": 152,
     "timeYear": 130,
     "dailyMinutesDown": {
       "2025-05-23": 15
@@ -106,7 +106,7 @@
     "uptimeYear": "100.00%",
     "time": 3,
     "timeDay": 6,
-    "timeWeek": 3,
+    "timeWeek": 4,
     "timeMonth": 3,
     "timeYear": 3,
     "dailyMinutesDown": {}
@@ -123,8 +123,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 4,
-    "timeDay": 5,
-    "timeWeek": 3,
+    "timeDay": 6,
+    "timeWeek": 4,
     "timeMonth": 4,
     "timeYear": 4,
     "dailyMinutesDown": {}
@@ -146,7 +146,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-07": 17,
+      "2025-06-08": 20,
+      "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
