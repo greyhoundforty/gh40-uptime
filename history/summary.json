@@ -60,19 +60,19 @@
     "url": "https://kagi.com",
     "icon": "https://icons.duckduckgo.com/ip3/kagi.com.ico",
     "slug": "kagi",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 312,
-    "timeDay": 5145,
-    "timeWeek": 1651,
-    "timeMonth": 587,
-    "timeYear": 312,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 310,
+    "timeDay": 3467,
+    "timeWeek": 1511,
+    "timeMonth": 573,
+    "timeYear": 310,
     "dailyMinutesDown": {
-      "2025-06-10": 0
+      "2025-06-10": 12
     }
   },
   {
@@ -148,7 +148,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-10": 1271,
+      "2025-06-10": 1283,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
